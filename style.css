@@ -1,0 +1,26 @@
+body{
+    background-color: pink;
+}
+label{
+    background-color: bisque;
+}
+#image{
+    width: 500px;
+
+}
+.form{
+    float: right;
+    margin-right: 500px;
+    table-layout: fixed;
+    
+}
+.table, th, td{ border: solid;
+    
+
+}
+
+
+
+
+
+  
